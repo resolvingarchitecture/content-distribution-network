@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.com/resolvingarchitecture/content-distribution-network.svg?branch=master)](https://travis-ci.com/resolvingarchitecture/content-distribution-network)
+[![Build Status](https://travis-ci.com/resolvingarchitecture/content-distribution-network.svg?branch=master)](https://travis-ci.com/resolvingarchitecture/content-distribution-network)
 # Content Distribution Network
 
 1. Distribute Content
